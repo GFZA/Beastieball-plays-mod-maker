@@ -2,3 +2,5 @@ A badly-written yet simple python script to help converting plays data CSV file 
 
 The CSV must contain 7 rows with the data to write onto ini file, arranged as following:
      name, type, use, pow, target, effects, learnedby
+
+The CSV included is an example of how to format the file. Feels free to replace it with your own plays data!
